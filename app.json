@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/agnetahtz816389/Nemhauser",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
